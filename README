@@ -1,0 +1,10 @@
+Voice-Academy-for-Symbian-platform
+==================
+
+
+The Voice-Academy-for-Symbian-platform is a game on Symbain platform. 
+Player have to  sing or shout or make any noise  in
+the level corresponding to the moving tab in each of the five sound level slots  .
+
+
+The algorithm compute the frequecy of the sound by using fft(Fast Fourier transform);
